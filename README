@@ -1,0 +1,2 @@
+This module is standard in perl5.004. It implements the UNIX cmp(1)
+functionality.
